@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/passwords-companion/static/css/main.a1668dfd.chunk.css",
+    "main.js": "/passwords-companion/static/js/main.075d1fc7.chunk.js",
+    "main.js.map": "/passwords-companion/static/js/main.075d1fc7.chunk.js.map",
+    "runtime-main.js": "/passwords-companion/static/js/runtime-main.a7710cf3.js",
+    "runtime-main.js.map": "/passwords-companion/static/js/runtime-main.a7710cf3.js.map",
+    "static/css/2.83342f34.chunk.css": "/passwords-companion/static/css/2.83342f34.chunk.css",
+    "static/js/2.67abcacf.chunk.js": "/passwords-companion/static/js/2.67abcacf.chunk.js",
+    "static/js/2.67abcacf.chunk.js.map": "/passwords-companion/static/js/2.67abcacf.chunk.js.map",
+    "static/js/3.9466d09e.chunk.js": "/passwords-companion/static/js/3.9466d09e.chunk.js",
+    "static/js/3.9466d09e.chunk.js.map": "/passwords-companion/static/js/3.9466d09e.chunk.js.map",
+    "index.html": "/passwords-companion/index.html",
+    "static/css/2.83342f34.chunk.css.map": "/passwords-companion/static/css/2.83342f34.chunk.css.map",
+    "static/css/main.a1668dfd.chunk.css.map": "/passwords-companion/static/css/main.a1668dfd.chunk.css.map",
+    "static/js/2.67abcacf.chunk.js.LICENSE.txt": "/passwords-companion/static/js/2.67abcacf.chunk.js.LICENSE.txt",
+    "static/media/logo.468afbe1.svg": "/passwords-companion/static/media/logo.468afbe1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7710cf3.js",
+    "static/css/2.83342f34.chunk.css",
+    "static/js/2.67abcacf.chunk.js",
+    "static/css/main.a1668dfd.chunk.css",
+    "static/js/main.075d1fc7.chunk.js"
+  ]
+}
